@@ -1,0 +1,37 @@
+qId,opOne,opTwo,opThree,correct,dataName,dataId,type,contrast,group,cc
+Q1_1,Nitrogen dioxide (NO2) sensors,Nitrogen dioxide (NO2) sensing,Soil probing with penetrometer at primeval gulch,Nitrogen dioxide (NO2) sensors,Nitrogen dioxide (NO2) sensors,Q2_1,PO-PM,PM-PO,PMPO,object
+Q1_2,Areas of city farming,Soil probing with penetrometer at primeval gulch,Average lowest groundwater level,Areas of city farming,Areas of city farming,Q2_2,PO-PM,PM-PO,PMPO,object
+Q1_3,Locations of swimming pools,Average lowest groundwater level,Nitrogen dioxide (NO2) sensing,Locations of swimming pools,Locations of swimming pools,Q2_3,PO-PM,PM-PO,PMPO,object
+Q1_4,Soil probing with penetrometer at primeval gulch,Locations of swimming pools,Areas of city farming,Soil probing with penetrometer at primeval gulch,Soil probing with penetrometer at primeval gulch,Q2_4,PM-PO,PO-PM,PMPO,field
+Q1_5,Nitrogen dioxide (NO2) sensing,Areas of city farming,Nitrogen dioxide (NO2) sensors,Nitrogen dioxide (NO2) sensing,Nitrogen dioxide (NO2) sensing,Q2_5,PM-PO,PO-PM,PMPO,field
+Q1_6,Average lowest groundwater level,Nitrogen dioxide (NO2) sensors,Locations of swimming pools,Average lowest groundwater level,Average lowest groundwater level,Q2_6,PM-PO,PO-PM,PMPO,field
+Q1_7,Major city streets,Coastline of the Netherlands,Air quality along roads,Major city streets,Major city streets,Q2_7,LO-LM,LM-LO,LMLO,object
+Q1_8,Pedestrian sidewalks along roads,Air quality along roads,Area of potential significant flood risk,Pedestrian sidewalks along roads,Pedestrian sidewalks along roads,Q2_8,LO-LM,LM-LO,LMLO,object
+Q1_9,Heating and cooling transport network,Area of potential significant flood risk,Coastline of the Netherlands,Heating and cooling transport network,Heating and cooling transport network,Q2_9,LO-LM,LM-LO,LMLO,object
+Q1_10,Coastline of the Netherlands,Pedestrian sidewalks along roads,Major city streets,Coastline of the Netherlands,Coastline of the Netherlands,Q2_10,LM-LO,LO-LM,LMLO,field
+Q1_11,Area of potential significant flood risk,Major city streets,Heating and cooling transport network,Area of potential significant flood risk,Area of potential significant flood risk,Q2_11,LM-LO,LO-LM,LMLO,field
+Q1_12,Air quality along roads,Heating and cooling transport network,Pedestrian sidewalks along roads,Air quality along roads,Air quality along roads,Q2_12,LM-LO,LO-LM,LMLO,field
+Q1_13,City parks,Dog walking policies,Function mix for built areas,City parks,City parks,Q2_13,RO-RP,RP-RO,RPRO,object
+Q1_14,Areas of 6-character postcodes,Function mix for built areas,Archeological sites exploring the parts of historical places,Areas of 6-character postcodes,Areas of 6-character postcodes,Q2_14,RO-RP,RP-RO,RPRO,object
+Q1_15,Culturally significant protected areas,Archeological sites exploring the parts of historical places,Dog walking policies,Culturally significant protected areas,Culturally significant protected areas,Q2_15,RO-RP,RP-RO,RPRO,object
+Q1_16,Dog walking policies,Areas of 6-character postcodes,City parks,Dog walking policies,Dog walking policies,Q2_16,RP-RO,RO-RP,RPRO,field
+Q1_17,Function mix for built areas,Culturally significant protected areas,Areas of 6-character postcodes,Function mix for built areas,Function mix for built areas,Q2_17,RP-RO,RO-RP,RPRO,field
+Q1_18,Archeological sites exploring the parts of historical places,City parks,Culturally significant protected areas,Archeological sites exploring the parts of historical places,Archeological sites exploring the parts of historical places,Q2_18,RP-RO,RO-RP,RPRO,field
+Q1_19,Districts of Amsterdam,Noise from air traffic around Schiphol airport,Windspeed at 100 meter altitude,Districts of Amsterdam,Districts of Amsterdam,Q2_19,LA-CO,CO-LA,COLA,object
+Q1_20,ATES-based heating storage and recovery capacity per municipality,Windspeed at 100 meter altitude,Health impact scores (GES-score) calculated from industry odor emissions,ATES-based heating storage and recovery capacity per municipality,ATES-based heating storage and recovery capacity per municipality,Q2_20,LA-CO,CO-LA,COLA,object
+Q1_21,22 management areas of Amsterdam,Health impact scores (GES-score) calculated from industry odor emissions,Noise from air traffic around Schiphol airport,22 management areas of Amsterdam,22 management areas of Amsterdam,Q2_21,LA-CO,CO-LA,COLA,object
+Q1_22,Noise from air traffic around Schiphol airport,ATES-based heating storage and recovery capacity per municipality,Districts of Amsterdam,Noise from air traffic around Schiphol airport,Noise from air traffic around Schiphol airport,Q2_22,CO-LA,LA-CO,COLA,field
+Q1_23,Windspeed at 100 meter altitude,22 management areas of Amsterdam,ATES-based heating storage and recovery capacity per municipality,Windspeed at 100 meter altitude,Windspeed at 100 meter altitude,Q2_23,CO-LA,LA-CO,COLA,field
+Q1_24,Health impact scores (GES-score) calculated from industry odor emissions,Districts of Amsterdam,22 management areas of Amsterdam,Health impact scores (GES-score) calculated from industry odor emissions,Health impact scores (GES-score) calculated from industry odor emissions,Q2_24,CO-LA,LA-CO,COLA,field
+Q1_25,Neighbourhoods (buurten) of Amsterdam,Soil quality in Amsterdam,Parking zones in Amsterdam,Neighbourhoods (buurten) of Amsterdam,Neighbourhoods (buurten) of Amsterdam,Q2_25,LA-COV,COV-LA,COVLA,object
+Q1_26,25 practice areas of Amsterdam,Landuse types in Amsterdam,Soil quality in Amsterdam,25 practice areas of Amsterdam,25 practice areas of Amsterdam,Q2_26,LA-COV,COV-LA,COVLA,object
+Q1_27,4-digit postcode areas of Amsterdam,Parking zones in Amsterdam,Landuse types in Amsterdam,4-digit postcode areas of Amsterdam,4-digit postcode areas of Amsterdam,Q2_27,LA-COV,COV-LA,COVLA,object
+Q1_28,Soil quality in Amsterdam,25 practice areas of Amsterdam,Neighbourhoods (buurten) of Amsterdam,Soil quality in Amsterdam,Soil quality in Amsterdam,Q2_28,COV-LA,LA-COV,COVLA,field
+Q1_29,Landuse types in Amsterdam,4-digit postcode areas of Amsterdam,25 practice areas of Amsterdam,Landuse types in Amsterdam,Landuse types in Amsterdam,Q2_29,COV-LA,LA-COV,COVLA,field
+Q1_30,Parking zones in Amsterdam,Neighbourhoods (buurten) of Amsterdam,4-digit postcode areas of Amsterdam,Parking zones in Amsterdam,Parking zones in Amsterdam,Q2_30,COV-LA,LA-COV,COVLA,field
+Q1_31,Dwelling distribution,Map of soil types,Digital elevation model,Dwelling distribution,Dwelling distribution,Q2_31,SL-RF,RF-SL,RFSL,object
+Q1_32,Population at residences place,Areas with potential heat stress during summer days,Map of soil types,Population at residences place,Population at residences place,Q2_32,SL-RF,RF-SL,RFSL,object
+Q1_33,Gross Domestic Product of the world in 2010,Digital elevation model,Areas with potential heat stress during summer days,Gross Domestic Product of the world in 2010,Gross Domestic Product of the world in 2010,Q2_33,SL-RF,RF-SL,RFSL,object
+Q1_34,Map of soil types,Population at residences place,Dwelling distribution,Map of soil types,Map of soil types,Q2_34,RF-SL,SL-RF,RFSL,field
+Q1_35,Digital elevation model,Dwelling distribution,Gross Domestic Product of the world in 2010,Digital elevation model,Digital elevation model,Q2_35,RF-SL,SL-RF,RFSL,field
+Q1_36,Areas with potential heat stress during summer days,Gross Domestic Product of the world in 2010,Population at residences place,Areas with potential heat stress during summer days,Areas with potential heat stress during summer days,Q2_36,RF-SL,SL-RF,RFSL,field

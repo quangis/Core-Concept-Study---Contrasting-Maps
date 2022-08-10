@@ -1,0 +1,73 @@
+=========== Link to the Google survey: https://surveys.google.com/reporting/survey?survey=dccsl6yehegbsjdbgvip3qb7se
+
+
+=========== Survey design:
+Question 1: 
+Question text: "Categorize your expertise with Geographic Information Systems (GIS)"
+Question type: single choice
+Answer options:
+    - "*Laymen*: never used GIS"
+    - "*Beginner*: can use basic GIS functions"
+    - "*Trained*: formally trained by a GIS course"
+    - "*Expert*: used GIS for 5 years or more"
+
+Question 2
+Question text: "Which one of the three spatial datasets is more different from the two others in terms of spatial analyses that can be done on it."
+Question type: single choice
+Answer options are the visualized maps:
+    - Culturally significant protected areas	
+    - Archeological sites exploring the parts of historical places	
+    - Dog walking policies	
+Correct answer: Culturally significant protected areas
+
+Question 3
+Question text: "Which one of the three spatial datasets is more different from the two others in terms of spatial analyses that can be done on it."
+Question type: single choice
+Answer options are the visualized maps:
+    - Areas of 6-character postcodes
+    - Function mix for built areas
+    - Archeological sites exploring the parts of historical places
+Correct answer: Areas of 6-character postcodes
+
+Question 4
+Question text: "Which one of the three spatial datasets is more different from the two others in terms of spatial analyses that can be done on it."
+Question type: single choice
+Answer options are the visualized maps:
+    - Dog walking policies
+    - Areas of 6-character postcodes
+    - City parks
+Correct answer: Dog walking policies
+
+Question 5
+Question text: "Which one of the three spatial datasets is more different from the two others in terms of spatial analyses that can be done on it."
+Question type: single choice
+Answer options are the visualized maps:
+    - Function mix for built areas
+    - Culturally significant protected areas
+    - Areas of 6-character postcodes
+Correct answer: Function mix for built areas
+
+Question 6
+Question text: "Which one of the three spatial datasets is more different from the two others in terms of spatial analyses that can be done on it."
+Question type: single choice
+Answer options are the visualized maps:
+    - Archeological sites exploring the parts of historical places
+    - City parks
+    - Culturally significant protected areas
+Correct answer: Archeological sites exploring the parts of historical places
+
+Question 7
+Question text: "Which one of the three spatial datasets is more different from the two others in terms of spatial analyses that can be done on it."
+Question type: single choice
+Answer options are the visualized maps:
+    - City parks
+    - Dog walking policies
+    - Function mix for built areas
+Correct answer: City parks
+
+Question 8:
+Question text: "Are you familiar with the *Core Concepts of spatial information* proposed by Werner Kuhn?"
+Question type: single choice
+Answer options:
+    - "No"
+    - "Yes"
